@@ -1,0 +1,8 @@
+.hidden{
+    display: none;
+}
+
+div span{
+    color: peru;
+    font-weight: 900;
+}
